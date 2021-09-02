@@ -1,5 +1,7 @@
 # Landing Page Project
 
+## Link: https://islamkamalx1.github.io/Landing-Page/
+
 I build navbar dynamically with js.
 
 I used Append child, innerHTML.
